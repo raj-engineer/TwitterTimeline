@@ -1,0 +1,6 @@
+framework module Pods_TwitterTimelineUITests {
+  umbrella header "Pods-TwitterTimelineUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
