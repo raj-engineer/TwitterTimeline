@@ -8,7 +8,7 @@
 
 import Foundation
 struct TwitterInfo {
-    static let ConsumerKey = "3rYhLWcbZMqG434b6kMwpqmon"
-    static let ConsumerSecret = "EEBdSSXXTLbHglKIB1D7PNlRLHPfvtZy1BT6r9EXiun2UBxP2J"
+    static let ConsumerKey = ""
+    static let ConsumerSecret = ""
     static let ScreenName = "SwiftLang"
 }
